@@ -1,3 +1,9 @@
+kano-toolset (2.0-2) unstable; urgency=low
+
+  * Add app module
+
+ -- Team Kano <dev@kano.me>  Thu, 4 Jun 2015 16:00:00 +0100
+
 kano-toolset (2.0-1) unstable; urgency=low
 
   * Adding the get_free_space() function to utils
